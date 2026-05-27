@@ -2,6 +2,10 @@
 
 A full-stack fleet management and vehicle booking platform that allows organisations to manage their vehicle fleet, handle booking requests, and track availability in real time. Built with Next.js and Tailwind CSS.
 
+## 🌐 Live Demo
+
+**[fleet-booking-eight.vercel.app](https://fleet-booking-eight.vercel.app/)**
+
 ## 🎯 What It Does
 
 Managing a fleet manually — via spreadsheets or phone calls — is error-prone and slow. Fleet Booking digitises the entire process: drivers can book vehicles online, managers get a live dashboard of fleet status, and the system prevents double-bookings automatically.
